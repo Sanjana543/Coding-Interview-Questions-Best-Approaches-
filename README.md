@@ -1,5 +1,5 @@
 # Coding-Interview-Questions-Best-Approaches-
+Learn some amazing approaches to solve coding problems in this repo.
 
-This repository contains all good approaches and optimized solutions of top interview questions.
-
+##Topics:
 -[Array](https://github.com/Sanjana543/Coding-Interview-Questions-Best-Approaches/Array)
